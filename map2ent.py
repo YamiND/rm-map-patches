@@ -17,23 +17,24 @@ def map2ent(mapdata, stripclasses=["light"]):
     modelfound = False
     skipent = False
     
-    for line in mapdata.split("\n"):
+    for n, line in enumerate(mapdata.split("\n")):
         line = line.strip()
         
-        if not line:
+        if not line or line.startswith("//"):
             continue
         
         if mode == M_NOTHING:
-            if line.startswith("// entity"):
+            if line == "{":
                 mode = M_ENTITY
-                entbuf = ""
+                entbuf = line + "\n"
                 skipent = False
                 continue
             else:
-                raise Exception("Got garbage while looking for entity: " + repr(line))
+                raise Exception("Got garbage on line %i (level %i) while looking for entity: %s" % (n, level, repr(line)))
         elif mode == M_ENTITY:
-            if line.startswith("// brush"):
+            if line == "{":
                 mode = M_BRUSH
+                level += 1
                 if entnum and not modelfound:
                     entbuf += '"model" "*%i"\n' % model
                     model += 1
