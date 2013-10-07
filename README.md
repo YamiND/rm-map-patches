@@ -8,7 +8,7 @@ List of alterations (alphabetical order):
 * **medieval**: Added Buffs. Note: this patch is for medieval_v1r0 (accident doesn't like to version his maps) [_Hanzo_]
 * **q2warehouse-nex-beta2**: Added Buffs, sealed jail doors for non-Jailbreak gametypes. [_Akari_]
 * **q3dust2-jb-beta4**: Added Buffs. [_Akari_]
-* **showdown_v2r0**: Added Buffs, added additional Jailbreak control points. [_Akari_]
+* **showdown_v2r0**: Added additional Jailbreak control points. [_Akari_]
 
 Contributing
 ==============
