@@ -1247,10 +1247,6 @@
 "origin" "-1800.000000 144.000000 -736.000000"
 }
 {
-"classname" "item_buff_guard_team1"
-"origin" "-1800.000000 16.000000 -736.000000"
-}
-{
 "classname" "dom_controlpoint"
 "origin" "-1768.000000 1788.000000 -328.000000"
 }
@@ -1280,14 +1276,27 @@
 }
 {
 "classname" "item_buff_arc_team2"
-"origin" "464.000000 672.000000 120.000000"
+"origin" "480.000000 384.000000 120.000000"
+"angle" "-90.000000"
 }
 {
 "classname" "dom_controlpoint"
 "origin" "488.000000 1760.000000 -723.000000"
 }
 {
+"classname" "item_buff_guard_team1"
+"origin" "-1800.000000 16.000000 -736.000000"
+}
+{
+"classname" "item_buff_medic_team1"
+"origin" "-984.000000 264.000000 -736.000000"
+}
+{
 "classname" "item_buff_guard_team2"
 "origin" "488.000000 1632.000000 -723.000000"
+}
+{
+"classname" "item_buff_medic_team2"
+"origin" "-264.000000 1176.000000 -723.000000"
 }
 
