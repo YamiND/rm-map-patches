@@ -6,6 +6,7 @@ Extensions for Nexuiz maps to be used with the [RocketMinsta](https://github.com
 List of alterations (alphabetical order):
 * **dustylolis-beta6**: Added Buffs, added netnames for Jailbreak control points. [_Akari_]
 * **medieval**: Added Buffs. Note: this patch is for medieval_v1r0 (accident doesn't like to version his maps) [_Hanzo_]
+* **q2edge-nex-beta6**: Added Buffs, added 2 extra Domination control points, fixed a blue Jailbreak controlpoint having no target [_Akari_]
 * **q2warehouse-nex-beta2**: Added Buffs, sealed jail doors for non-Jailbreak gametypes. [_Akari_]
 * **q3dust2-jb-beta4**: Added Buffs. [_Akari_]
 * **showdown_v2r0**: Added additional Jailbreak control points. [_Akari_]
