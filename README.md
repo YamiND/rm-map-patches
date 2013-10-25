@@ -12,6 +12,7 @@ List of alterations (alphabetical order):
 * **q2warehouse-nex-beta2**: Added Buffs, added Terminals, sealed jail doors for non-Jailbreak gametypes. [_Akari_]
 * **q3dust2-jb-beta4**: Added Buffs. [_Akari_]
 * **showdown_v2r0**: Added additional Jailbreak control points. [_Akari_]
+* **vectorwars-jb-beta2**: Fixed CTF flag spawns (for VIP soulgems, they were unreachable) [Hanzo]
 
 Contributing
 ==============
