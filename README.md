@@ -5,6 +5,7 @@ Extensions for Nexuiz maps to be used with the [RocketMinsta](https://github.com
 
 List of alterations (alphabetical order):
 * **dustylolis-beta6**: Added Buffs, added netnames for Jailbreak control points. [_Akari_]
+* **EquinoxV1R4**: Added: 10 teamspawnpoints/team, 4 buffs/team, 1 common buff in the middle, 6 domination controlpoints [_Hanzo_]
 * **Japanese_Castles_q3wcp1**: Removed func_trains (they were as broken as the room they lead to) [_Akari_]
 * **medieval**: Added Buffs. Note: this patch is for medieval_v1r0 (accident doesn't like to version his maps) [_Hanzo_]
 * **q2edge-nex-beta6**: Added Buffs, added 2 extra Domination control points, fixed a blue Jailbreak controlpoint having no target [_Akari_]
