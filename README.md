@@ -4,6 +4,7 @@ Info
 Extensions for Nexuiz maps to be used with the [RocketMinsta](https://github.com/nexAkari/RocketMinsta) mod. These patches are entirely server-side and don't require clients to download anything. They alter the placement of entities only, modifying the map layout this way is impossible. To install these on your server, simply copy the **maps** folder into your Nexuiz data directory (typically ~/.nexuiz/data/), or place them selectively.
 
 List of alterations (alphabetical order):
+* **desertfactory**: Added teamspawnpoints, buffs, terminals, dom-cps; removed the secret door. [_Hanzo_]
 * **dustylolis-beta6**: Added Buffs, added netnames for Jailbreak control points. [_Akari_]
 * **EquinoxV1R4**: Added: 10 teamspawnpoints/team, 4 buffs/team, 1 common buff in the middle, 6 domination controlpoints [_Hanzo_]
 * **Japanese_Castles_q3wcp1**: Removed func_trains (they were as broken as the room they lead to) [_Akari_]
