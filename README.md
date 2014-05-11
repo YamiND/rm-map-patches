@@ -16,6 +16,7 @@ List of alterations (alphabetical order):
 * **q3dust2-jb-beta4**: Added Buffs. [_Akari_]
 * **roof-beta2**: Added: 2 buffs/team, 2 terminals, more pickups (health/armor); now 7 dom-cps, 2 red jb-cps, 2 blue jb-cps, 1 neutral jb-cp; [_Hanzo_]
 * **showdown_v2r0**: Added additional Jailbreak control points. [_Akari_]
+* **silvercity**: Remove global fog [_J0k3r_]
 * **vectorwars-jb-beta2**: Fixed CTF flag spawns (for VIP soulgems, they were unreachable) [_Hanzo_]
 
 Contributing

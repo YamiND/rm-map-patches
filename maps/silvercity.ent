@@ -1,0 +1,486 @@
+{
+"classname" "worldspawn"
+"gridsize" "1024.000000 1024.000000 1024.000000"
+"message" "Silver City"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "-176.000000 -176.000000 1824.000000"
+}
+{
+"classname" "trigger_push"
+"target" "je"
+"model" "*1"
+}
+{
+"classname" "info_notnull"
+"origin" "-604.000000 -204.000000 1596.000000"
+"targetname" "je"
+}
+{
+"classname" "info_notnull"
+"origin" "-220.000000 1828.000000 2004.000000"
+"targetname" "t1"
+}
+{
+"classname" "trigger_push"
+"target" "t1"
+"model" "*2"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "90"
+"origin" "576.000000 -1920.000000 -232.000000"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "0"
+"origin" "544.000000 -224.000000 48.000000"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "0"
+"origin" "-608.000000 288.000000 88.000000"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "0"
+"origin" "-1856.000000 256.000000 -232.000000"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "0"
+"origin" "-1536.000000 -768.000000 48.000000"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "0"
+"origin" "-1920.000000 -1280.000000 -232.000000"
+}
+{
+"classname" "info_player_start"
+"angle" "90"
+"origin" "-1622.000000 -167.000000 -251.000000"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "90"
+"origin" "-1472.000000 -1984.000000 -40.000000"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "180"
+"origin" "1312.000000 -224.000000 280.000000"
+}
+{
+"classname" "trigger_push"
+"target" "t2"
+"model" "*3"
+}
+{
+"classname" "info_notnull"
+"origin" "-220.000000 1556.000000 2004.000000"
+"targetname" "t2"
+}
+{
+"classname" "info_notnull"
+"origin" "220.000000 1820.000000 2004.000000"
+"targetname" "t4"
+}
+{
+"classname" "trigger_push"
+"target" "t4"
+"model" "*4"
+}
+{
+"classname" "trigger_push"
+"target" "t3"
+"model" "*5"
+}
+{
+"classname" "info_notnull"
+"origin" "220.000000 1548.000000 2004.000000"
+"targetname" "t3"
+}
+{
+"classname" "info_notnull"
+"origin" "220.000000 -1828.000000 2004.000000"
+"targetname" "t6"
+}
+{
+"classname" "trigger_push"
+"target" "t6"
+"model" "*6"
+}
+{
+"classname" "trigger_push"
+"target" "t5"
+"model" "*7"
+}
+{
+"classname" "info_notnull"
+"origin" "220.000000 -1556.000000 2004.000000"
+"targetname" "t5"
+}
+{
+"classname" "info_notnull"
+"origin" "-220.000000 -1820.000000 2004.000000"
+"targetname" "t8"
+}
+{
+"classname" "trigger_push"
+"target" "t8"
+"model" "*8"
+}
+{
+"classname" "trigger_push"
+"target" "t7"
+"model" "*9"
+}
+{
+"classname" "info_notnull"
+"origin" "-220.000000 -1548.000000 2004.000000"
+"targetname" "t7"
+}
+{
+"classname" "trigger_push"
+"target" "t9"
+"model" "*10"
+}
+{
+"classname" "info_notnull"
+"origin" "-1716.000000 -428.000000 1340.000000"
+"targetname" "t9"
+}
+{
+"classname" "info_notnull"
+"origin" "1716.000000 428.000000 1340.000000"
+"targetname" "t10"
+}
+{
+"classname" "info_notnull"
+"origin" "-1740.000000 276.000000 1340.000000"
+"targetname" "t11"
+}
+{
+"classname" "trigger_push"
+"target" "t11"
+"model" "*11"
+}
+{
+"classname" "trigger_push"
+"target" "t12"
+"model" "*12"
+}
+{
+"classname" "info_notnull"
+"origin" "1724.000000 236.000000 1436.000000"
+"targetname" "t12"
+}
+{
+"classname" "info_notnull"
+"origin" "1700.000000 -332.000000 1436.000000"
+"targetname" "t13"
+}
+{
+"classname" "trigger_push"
+"target" "t13"
+"model" "*13"
+}
+{
+"classname" "info_notnull"
+"origin" "-548.000000 -284.000000 2036.000000"
+"targetname" "je_1"
+}
+{
+"classname" "trigger_push"
+"target" "je_1"
+"model" "*14"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "45"
+"origin" "-1664.000000 -1624.000000 1000.000000"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "315"
+"origin" "-1576.000000 1584.000000 1000.000000"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "225"
+"origin" "1624.000000 1584.000000 1000.000000"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "135"
+"origin" "1592.000000 -1576.000000 1000.000000"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "180"
+"origin" "1808.000000 -24.000000 1112.000000"
+}
+{
+"classname" "info_player_deathmatch"
+"angle" "360"
+"origin" "-1824.000000 8.000000 1112.000000"
+}
+{
+"classname" "trigger_push"
+"target" "je_2"
+"model" "*15"
+}
+{
+"classname" "info_notnull"
+"origin" "-420.000000 356.000000 2036.000000"
+"targetname" "je_2"
+}
+{
+"classname" "info_notnull"
+"origin" "428.000000 -348.000000 2036.000000"
+"targetname" "je_3"
+}
+{
+"classname" "trigger_push"
+"target" "je_3"
+"model" "*16"
+}
+{
+"classname" "item_armor_large"
+"origin" "-1817.000000 6.000000 1139.000000"
+}
+{
+"classname" "weapon_hagar"
+"origin" "-1765.000000 -1721.000000 1019.000000"
+}
+{
+"classname" "item_rockets"
+"origin" "-1659.000000 -1853.000000 1019.000000"
+}
+{
+"classname" "item_rockets"
+"origin" "-1891.000000 -1569.000000 1019.000000"
+}
+{
+"classname" "weapon_grenadelauncher"
+"origin" "1565.000000 -1850.000000 1019.000000"
+}
+{
+"classname" "item_rockets"
+"origin" "1699.000000 -1747.000000 1019.000000"
+}
+{
+"classname" "item_armor_large"
+"origin" "1810.000000 -2.000000 1139.000000"
+}
+{
+"classname" "weapon_electro"
+"origin" "1787.000000 1613.000000 1019.000000"
+}
+{
+"classname" "item_cells"
+"origin" "1555.000000 1916.000000 1019.000000"
+}
+{
+"classname" "item_rockets"
+"origin" "-1616.000000 1762.000000 1018.000000"
+}
+{
+"classname" "weapon_rocketlauncher"
+"origin" "-1798.000000 1466.000000 1018.000000"
+}
+{
+"classname" "item_armor_large"
+"noalign" "1"
+"origin" "-9.000000 1722.000000 1417.000000"
+}
+{
+"classname" "item_strength"
+"origin" "-9.000000 66.000000 1851.000000"
+}
+{
+"classname" "item_health_medium"
+"origin" "-605.000000 848.000000 -261.000000"
+}
+{
+"classname" "item_health_medium"
+"origin" "-605.000000 668.000000 -261.000000"
+}
+{
+"classname" "item_health_medium"
+"origin" "-508.000000 512.000000 -261.000000"
+}
+{
+"classname" "item_health_medium"
+"origin" "-1490.000000 -1589.000000 -261.000000"
+}
+{
+"classname" "weapon_grenadelauncher"
+"origin" "-1298.000000 -1779.000000 -259.000000"
+}
+{
+"classname" "weapon_hagar"
+"origin" "-1718.000000 -1984.000000 251.000000"
+}
+{
+"classname" "item_rockets"
+"origin" "-1450.000000 -1984.000000 -251.000000"
+}
+{
+"classname" "weapon_electro"
+"origin" "-1325.000000 1744.000000 251.000000"
+}
+{
+"classname" "item_cells"
+"origin" "-1299.000000 1593.000000 251.000000"
+}
+{
+"classname" "weapon_rocketlauncher"
+"origin" "903.000000 -210.000000 59.000000"
+}
+{
+"classname" "item_armor_large"
+"origin" "-1985.000000 -230.000000 -300.000000"
+}
+{
+"classname" "item_rockets"
+"origin" "961.000000 -39.000000 59.000000"
+}
+{
+"classname" "item_health_mega"
+"origin" "-535.000000 -213.000000 59.000000"
+}
+{
+"classname" "weapon_grenadelauncher"
+"origin" "1563.000000 -208.000000 251.000000"
+}
+{
+"classname" "item_rockets"
+"origin" "1563.000000 -42.000000 252.000000"
+}
+{
+"classname" "item_armor_large"
+"origin" "1566.000000 -439.000000 251.000000"
+}
+{
+"classname" "item_armor_large"
+"origin" "-1316.000000 868.000000 59.000000"
+}
+{
+"classname" "item_health_medium"
+"angle" "180"
+"origin" "-1316.000000 993.000000 59.000000"
+}
+{
+"classname" "item_health_mega"
+"origin" "-545.000000 219.000000 1411.000000"
+}
+{
+"classname" "item_shells"
+"origin" "-582.000000 33.000000 1411.000000"
+}
+{
+"classname" "item_shells"
+"origin" "-1503.000000 -1237.000000 59.000000"
+}
+{
+"classname" "item_health_medium"
+"origin" "519.000000 -1385.000000 -261.000000"
+}
+{
+"classname" "weapon_hagar"
+"origin" "1961.000000 -1956.000000 -261.000000"
+}
+{
+"classname" "item_rockets"
+"origin" "1807.000000 -1962.000000 -261.000000"
+}
+{
+"classname" "item_rockets"
+"origin" "-553.000000 -74.000000 -262.000000"
+}
+{
+"classname" "item_health_medium"
+"origin" "-1976.000000 -1984.000000 -59.000000"
+}
+{
+"classname" "dom_team"
+"model" "models/domination/dom_unclaimed.md3"
+"origin" "0.000000 0.000000 -264.000000"
+}
+{
+"classname" "dom_team"
+"cnt" "13"
+"message" "Blue team has captured a control point"
+"model" "models/domination/dom_blue.md3"
+"netname" "^4Blue Team^3"
+"noise" "domination/claim.wav"
+"noise1" "domination/claim.wav"
+"origin" "0.000000 0.000000 -232.000000"
+}
+{
+"classname" "dom_team"
+"cnt" "4"
+"message" "Red team has captured a control point"
+"model" "models/domination/dom_red.md3"
+"netname" "^1Red Team^3"
+"noise" "domination/claim.wav"
+"noise1" "domination/claim.wav"
+"origin" "0.000000 0.000000 -200.000000"
+}
+{
+"classname" "dom_team"
+"cnt" "9"
+"message" "Pink team has captured a control point"
+"model" "models/domination/dom_pink.md3"
+"netname" "^6Pink Team^3"
+"noise" "domination/claim.wav"
+"noise1" "domination/claim.wav"
+"origin" "0.000000 0.000000 -176.000000"
+}
+{
+"classname" "dom_team"
+"cnt" "12"
+"message" "Yellow team has captured a control point"
+"model" "models/domination/dom_yellow.md3"
+"netname" "^3Yellow Team^3"
+"noise" "domination/claim.wav"
+"noise1" "domination/claim.wav"
+"origin" "0.000000 0.000000 -144.000000"
+}
+{
+"classname" "dom_controlpoint"
+"message" "^3 has captured the ^1Top"
+"origin" "-300.000000 0.000000 1816.000000"
+}
+{
+"classname" "dom_controlpoint"
+"message" "^3 has captured a ^1Bottom Controlpoint"
+"origin" "1970.000000 -250.000000 -296.000000"
+}
+{
+"classname" "dom_controlpoint"
+"angle" "90"
+"message" "^3 has captured the ^1Bottom Mortar"
+"origin" "-1500.000000 -1800.000000 -296.000000"
+}
+{
+"classname" "dom_controlpoint"
+"angle" "90"
+"message" "^3 has captured the ^1Hallway"
+"origin" "-1500.000000 -225.000000 24.000000"
+}
+{
+"classname" "dom_controlpoint"
+"angle" "90"
+"message" "^3 has captured a ^1Middle Controlpoint"
+"origin" "150.000000 1850.000000 24.000000"
+}
+{
+"classname" "dom_controlpoint"
+"message" "^3 has captured the ^1Middle Mortar"
+"origin" "1216.000000 -256.000000 216.000000"
+}
+
