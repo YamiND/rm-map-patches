@@ -1,0 +1,10 @@
+title Tortured
+author thefury
+cdtrack music/fla22k_03
+has weapons
+type dm 30 20
+type rune 200 20
+type lms 9 20
+type arena 10 20
+settemp_for_type all g_walljump_playerclip 1
+
