@@ -19,6 +19,7 @@ List of alterations (alphabetical order):
 * **roof-beta2**: Added: 2 buffs/team, 2 terminals, more pickups (health/armor); now 7 dom-cps, 2 red jb-cps, 2 blue jb-cps, 1 neutral jb-cp; [_Hanzo_]
 * **showdown_v2r0**: Added additional Jailbreak control points. [_Akari_]
 * **silvercity**: Remove global fog [_J0k3r_]
+* **solarae-nex-v2**: Move Terminals to more hidden locations [_J0k3r_]
 * **tortured**: Added mapinfo, enabled g_walljump_playerclip [_Akari_]
 * **vectorwars-jb-beta2**: Fixed CTF flag spawns (for VIP soulgems, they were unreachable) [_Hanzo_]
 
