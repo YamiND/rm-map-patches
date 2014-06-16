@@ -4,6 +4,7 @@ Info
 Extensions for Nexuiz maps to be used with the [RocketMinsta](https://github.com/nexAkari/RocketMinsta) mod. These patches are entirely server-side and don't require clients to download anything. They alter the placement of entities only, modifying the map layout this way is impossible. To install these on your server, simply copy the **maps** folder into your Nexuiz data directory (typically ~/.nexuiz/data/), or place them selectively.
 
 List of alterations (alphabetical order):
+* **cpm19_nex_r1**: Added mapinfo, enabled g_walljump_playerclip [_J0k3r_]
 * **desertfactory**: Added teamspawnpoints, buffs, terminals, dom-cps; removed the secret door. [_Hanzo_]
 * **dustylolis-beta6**: Added Buffs, added netnames for Jailbreak control points. [_Akari_]
 * **dusty_v2**: Made it fun 30% of the time. [_Akari_]
@@ -19,6 +20,7 @@ List of alterations (alphabetical order):
 * **roof-beta2**: Added: 2 buffs/team, 2 terminals, more pickups (health/armor); now 7 dom-cps, 2 red jb-cps, 2 blue jb-cps, 1 neutral jb-cp; [_Hanzo_]
 * **showdown_v2r0**: Added additional Jailbreak control points. [_Akari_]
 * **silvercity**: Remove global fog [_J0k3r_]
+* **solarae-nex-v2**: Move Terminals to more hidden locations [_J0k3r_]
 * **tortured**: Added mapinfo, enabled g_walljump_playerclip [_Akari_]
 * **vectorwars-jb-beta2**: Fixed CTF flag spawns (for VIP soulgems, they were unreachable) [_Hanzo_]
 

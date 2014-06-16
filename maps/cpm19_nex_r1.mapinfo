@@ -1,0 +1,9 @@
+title Q3JDM9a
+author Jude [Hubster's Remix]
+cdtrack 7
+has weapons
+type dm 30 20
+type lms 9 20
+type arena 10 20
+settemp_for_type all sv_q3acompat_machineshotgunswap 1
+settemp_for_type all g_walljump_playerclip 1
