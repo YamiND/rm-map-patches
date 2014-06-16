@@ -4,6 +4,7 @@ Info
 Extensions for Nexuiz maps to be used with the [RocketMinsta](https://github.com/nexAkari/RocketMinsta) mod. These patches are entirely server-side and don't require clients to download anything. They alter the placement of entities only, modifying the map layout this way is impossible. To install these on your server, simply copy the **maps** folder into your Nexuiz data directory (typically ~/.nexuiz/data/), or place them selectively.
 
 List of alterations (alphabetical order):
+* **blackcathedral-cra_v3**: Added a Nadget pickup [_Akari_]
 * **cpm19_nex_r1**: Added mapinfo, enabled g_walljump_playerclip [_J0k3r_]
 * **desertfactory**: Added teamspawnpoints, buffs, terminals, dom-cps; removed the secret door. [_Hanzo_]
 * **dieselpower**: Added a Nadget pickup [_Akari_]
