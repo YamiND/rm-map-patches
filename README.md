@@ -13,6 +13,7 @@ List of alterations (alphabetical order):
 * **ospdm8_nex_r1**: Added Buffs, Terminal [_J0k3r_]
 * **q2edge-nex-beta6**: Added Buffs, added 2 extra Domination control points, fixed a blue Jailbreak controlpoint having no target [_Akari_]
 * **q2warehouse-jb-beta3**: Fixed missing Red Arc Buff spawn [_Akari_]
+* **q2warehouse-jb-beta4**: Added Nadget pickups [_Akari_]
 * **q2warehouse-nex-beta2**: Added Buffs, added Terminals, sealed jail doors for non-Jailbreak gametypes. [_Akari_]
 * **q3dust2-jb-beta4**: Added Buffs. [_Akari_]
 * **roof-beta2**: Added: 2 buffs/team, 2 terminals, more pickups (health/armor); now 7 dom-cps, 2 red jb-cps, 2 blue jb-cps, 1 neutral jb-cp; [_Hanzo_]
