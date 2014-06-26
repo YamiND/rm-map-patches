@@ -37,7 +37,7 @@ Decompiling isn't 100% accurate, but it will keep ingame entities intact, which 
 
 Alternatively, you can compile the new entity data into the bsp, run it in Nexuiz and use the **sv_saveentfile** command. It will save the .ent file to ~/.nexuiz/data/maps/.
 
-If you want to modify an already existing patch, you have to apply it to the original/decompiled .map and then proceed with editing it and generating a new .ent file. Use the following command to do that: 
+If you want to modify an already existing patch, you have to apply it to the original/decompiled .map and then proceed with editing it and generating a new .ent file. Use the following command to do that:
 
     ./map2ent.py fuse mapname.map mapname.ent newmapname.map
 
