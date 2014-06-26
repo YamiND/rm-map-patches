@@ -4,8 +4,10 @@ Info
 Extensions for Nexuiz maps to be used with the [RocketMinsta](https://github.com/nexAkari/RocketMinsta) mod. These patches are entirely server-side and don't require clients to download anything. They alter the placement of entities only, modifying the map layout this way is impossible. To install these on your server, simply copy the **maps** folder into your Nexuiz data directory (typically ~/.nexuiz/data/), or place them selectively.
 
 List of alterations (alphabetical order):
+* **blackcathedral-cra_v3**: Added a Nadget pickup [_Akari_]
 * **cpm19_nex_r1**: Added mapinfo, enabled g_walljump_playerclip [_J0k3r_]
 * **desertfactory**: Added teamspawnpoints, buffs, terminals, dom-cps; removed the secret door. [_Hanzo_]
+* **dieselpower**: Added a Nadget pickup [_Akari_]
 * **dustylolis-beta6**: Added Buffs, added netnames for Jailbreak control points. [_Akari_]
 * **dusty_v2**: Made it fun 30% of the time. [_Akari_]
 * **EquinoxV1R4**: Added: 10 teamspawnpoints/team, 4 buffs/team, 1 common buff in the middle, 6 domination controlpoints [_Hanzo_]
@@ -15,6 +17,7 @@ List of alterations (alphabetical order):
 * **phantq3dm3_nex**: Added mapinfo, enabled g_walljump_playerclip [_J0k3r_]
 * **q2edge-nex-beta6**: Added Buffs, added 2 extra Domination control points, fixed a blue Jailbreak controlpoint having no target [_Akari_]
 * **q2warehouse-jb-beta3**: Fixed missing Red Arc Buff spawn [_Akari_]
+* **q2warehouse-jb-beta4**: Added Nadget pickups [_Akari_]
 * **q2warehouse-nex-beta2**: Added Buffs, added Terminals, sealed jail doors for non-Jailbreak gametypes. [_Akari_]
 * **q3dust2-jb-beta4**: Added Buffs. [_Akari_]
 * **roof-beta2**: Added: 2 buffs/team, 2 terminals, more pickups (health/armor); now 7 dom-cps, 2 red jb-cps, 2 blue jb-cps, 1 neutral jb-cp; [_Hanzo_]

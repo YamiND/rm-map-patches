@@ -1,0 +1,1403 @@
+{
+"classname" "worldspawn"
+"message" "Diesel Power"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "-128 128 24"
+"angle" "315"
+}
+{
+"classname" "weapon_grenadelauncher"
+"origin" "880 1312 464"
+}
+{
+"classname" "item_armor_large"
+"origin" "496 1680 400"
+}
+{
+"classname" "weapon_rocketlauncher"
+"origin" "480 448 -112"
+}
+{
+"classname" "trigger_push"
+"target" "t1"
+"model" "*1"
+}
+{
+"classname" "target_position"
+"targetname" "t1"
+"origin" "1392 928 376"
+}
+{
+"classname" "trigger_teleport"
+"target" "t2"
+"model" "*2"
+}
+{
+"classname" "misc_teleporter_dest"
+"targetname" "t2"
+"origin" "1184 688 -384"
+"angle" "180"
+}
+{
+"classname" "item_health_medium"
+"origin" "2208 -64 -752"
+"angle" "180"
+}
+{
+"classname" "item_armor_large"
+"origin" "1920 -64 -624"
+}
+{
+"classname" "ammo_rockets"
+"origin" "1184 -864 -1008"
+}
+{
+"classname" "ammo_shells"
+"origin" "1232 -864 -1008"
+}
+{
+"classname" "weapon_rocketlauncher"
+"origin" "896 64 -432"
+}
+{
+"classname" "trigger_teleport"
+"target" "t3"
+"model" "*3"
+}
+{
+"classname" "misc_teleporter_dest"
+"targetname" "t3"
+"origin" "-824 896 232"
+}
+{
+"classname" "ammo_cells"
+"origin" "432 -104 -752"
+}
+{
+"classname" "item_health_mega"
+"origin" "1184 168 152"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "-96 1400 216"
+"angle" "270"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "-768 896 -232"
+"angle" "360"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "816 1328 -232"
+"angle" "225"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "304 352 -744"
+"angle" "360"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "1288 688 -424"
+"angle" "180"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "1264 1776 280"
+"angle" "270"
+}
+{
+"classname" "item_health_medium"
+"origin" "-800 -352 16"
+}
+{
+"classname" "item_health_small"
+"origin" "560 128 24"
+}
+{
+"classname" "item_health_small"
+"origin" "560 0 24"
+}
+{
+"classname" "item_health_small"
+"origin" "560 -128 24"
+}
+{
+"classname" "item_health_small"
+"origin" "560 -256 24"
+}
+{
+"classname" "ammo_rockets"
+"origin" "256 160 16"
+}
+{
+"classname" "ammo_cells"
+"origin" "192 160 16"
+}
+{
+"classname" "ammo_shells"
+"origin" "816 912 -232"
+}
+{
+"classname" "ammo_lightning"
+"origin" "768 304 280"
+}
+{
+"classname" "ammo_shells"
+"origin" "896 304 280"
+}
+{
+"classname" "ammo_grenades"
+"origin" "304 136 -496"
+}
+{
+"classname" "trigger_push"
+"target" "t4"
+"model" "*4"
+}
+{
+"classname" "target_position"
+"targetname" "t4"
+"origin" "1488 -1696 -128"
+}
+{
+"classname" "item_health_medium"
+"origin" "2504 -1288 -368"
+}
+{
+"classname" "item_health_medium"
+"origin" "1192 -1416 -424"
+}
+{
+"classname" "item_armor_small"
+"origin" "1600 -1760 -208"
+}
+{
+"classname" "item_armor_small"
+"origin" "1632 -1760 -208"
+}
+{
+"classname" "item_armor_small"
+"origin" "1664 -1760 -208"
+}
+{
+"classname" "ammo_slugs"
+"count" "5"
+"origin" "1640 -1632 -208"
+}
+{
+"classname" "ammo_rockets"
+"origin" "2496 -1400 -368"
+}
+{
+"classname" "ammo_shells"
+"origin" "1632 -96 -304"
+}
+{
+"classname" "ammo_cells"
+"origin" "1632 -32 -304"
+}
+{
+"classname" "target_position"
+"targetname" "t87"
+"origin" "1208 -288 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t88"
+"origin" "1208 -160 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t89"
+"origin" "1208 -32 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t90"
+"origin" "1208 96 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t91"
+"origin" "1160 96 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t92"
+"origin" "1160 -32 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t93"
+"origin" "1160 -160 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t94"
+"origin" "1160 -288 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t95"
+"origin" "1160 608 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t96"
+"origin" "1160 480 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t97"
+"origin" "1160 352 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t98"
+"origin" "1160 224 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t99"
+"origin" "896 440 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t100"
+"origin" "768 440 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t101"
+"origin" "640 440 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t102"
+"origin" "512 440 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t103"
+"origin" "512 456 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t104"
+"origin" "640 456 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t105"
+"origin" "768 456 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t106"
+"origin" "896 456 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t107"
+"origin" "384 456 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t108"
+"origin" "384 440 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t109"
+"origin" "504 320 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t110"
+"origin" "504 448 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t111"
+"origin" "504 576 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t112"
+"origin" "1416 864 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t113"
+"origin" "1416 992 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t114"
+"origin" "1160 1216 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t115"
+"origin" "1504 952 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t116"
+"origin" "1504 904 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t117"
+"origin" "1208 1216 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t118"
+"origin" "1136 1192 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t119"
+"origin" "1232 1192 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t120"
+"origin" "1208 1056 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t121"
+"origin" "1208 928 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t122"
+"origin" "1208 800 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t123"
+"origin" "864 -632 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t124"
+"origin" "736 -632 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t125"
+"origin" "736 -712 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t126"
+"origin" "864 -712 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t127"
+"origin" "992 -712 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t128"
+"origin" "1696 -696 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t129"
+"origin" "1568 -696 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t130"
+"origin" "2048 -696 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t131"
+"origin" "1920 -696 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t132"
+"origin" "2176 -696 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t133"
+"origin" "1320 -1056 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t134"
+"origin" "1320 -1184 -120"
+}
+{
+"classname" "target_position"
+"targetname" "t135"
+"origin" "1920 -56 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t136"
+"origin" "1928 -64 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t137"
+"origin" "1920 -72 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t138"
+"origin" "1632 24 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t139"
+"origin" "1632 -160 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t140"
+"origin" "1464 -128 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t141"
+"origin" "1464 64 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t142"
+"origin" "1464 256 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t143"
+"origin" "1288 160 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t144"
+"origin" "1288 352 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t145"
+"origin" "1288 -288 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t146"
+"origin" "1288 -480 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t147"
+"origin" "1288 -672 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t148"
+"origin" "1184 -776 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t149"
+"origin" "1272 -864 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t150"
+"origin" "736 -504 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t151"
+"origin" "928 -504 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t152"
+"origin" "1120 -504 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t153"
+"origin" "1152 520 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t154"
+"origin" "960 520 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t155"
+"origin" "768 520 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t156"
+"origin" "768 632 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t157"
+"origin" "960 632 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t158"
+"origin" "1152 632 -1016"
+}
+{
+"classname" "target_position"
+"targetname" "t159"
+"origin" "632 32 296"
+}
+{
+"classname" "target_position"
+"targetname" "t160"
+"origin" "632 -96 296"
+}
+{
+"classname" "target_position"
+"targetname" "t161"
+"origin" "632 -224 296"
+}
+{
+"classname" "target_position"
+"targetname" "t162"
+"origin" "632 -352 296"
+}
+{
+"classname" "target_position"
+"targetname" "t163"
+"origin" "632 160 296"
+}
+{
+"classname" "target_position"
+"targetname" "t164"
+"origin" "704 -456 296"
+}
+{
+"classname" "target_position"
+"targetname" "t165"
+"origin" "832 -456 296"
+}
+{
+"classname" "target_position"
+"targetname" "t166"
+"origin" "960 -456 296"
+}
+{
+"classname" "target_position"
+"targetname" "t167"
+"origin" "1032 -352 296"
+}
+{
+"classname" "target_position"
+"targetname" "t168"
+"origin" "1032 -224 296"
+}
+{
+"classname" "target_position"
+"targetname" "t169"
+"origin" "1032 -96 296"
+}
+{
+"classname" "target_position"
+"targetname" "t170"
+"origin" "1032 32 296"
+}
+{
+"classname" "target_position"
+"targetname" "t171"
+"origin" "1032 160 296"
+}
+{
+"classname" "target_position"
+"targetname" "t172"
+"origin" "960 264 296"
+}
+{
+"classname" "target_position"
+"targetname" "t173"
+"origin" "832 264 296"
+}
+{
+"classname" "target_position"
+"targetname" "t174"
+"origin" "704 264 296"
+}
+{
+"classname" "target_position"
+"targetname" "t175"
+"origin" "1024 -888 296"
+}
+{
+"classname" "target_position"
+"targetname" "t176"
+"origin" "896 -888 296"
+}
+{
+"classname" "target_position"
+"targetname" "t177"
+"origin" "768 -888 296"
+}
+{
+"classname" "target_position"
+"targetname" "t178"
+"origin" "640 -888 296"
+}
+{
+"classname" "target_position"
+"targetname" "t179"
+"origin" "512 -888 296"
+}
+{
+"classname" "target_position"
+"targetname" "t180"
+"origin" "384 -888 296"
+}
+{
+"classname" "target_position"
+"targetname" "t181"
+"origin" "256 -888 296"
+}
+{
+"classname" "target_position"
+"targetname" "t182"
+"origin" "128 -888 296"
+}
+{
+"classname" "target_position"
+"targetname" "t183"
+"origin" "-248 -544 296"
+}
+{
+"classname" "target_position"
+"targetname" "t184"
+"origin" "-320 -440 296"
+}
+{
+"classname" "target_position"
+"targetname" "t185"
+"origin" "-448 -440 296"
+}
+{
+"classname" "target_position"
+"targetname" "t186"
+"origin" "-576 -440 296"
+}
+{
+"classname" "target_position"
+"targetname" "t187"
+"origin" "-704 -440 296"
+}
+{
+"classname" "target_position"
+"targetname" "t188"
+"origin" "-832 -440 296"
+}
+{
+"classname" "target_position"
+"targetname" "t189"
+"origin" "-888 -320 296"
+}
+{
+"classname" "target_position"
+"targetname" "t190"
+"origin" "-888 -192 296"
+}
+{
+"classname" "target_position"
+"targetname" "t191"
+"origin" "-888 -64 296"
+}
+{
+"classname" "target_position"
+"targetname" "t192"
+"origin" "-888 64 296"
+}
+{
+"classname" "target_position"
+"targetname" "t193"
+"origin" "-888 192 296"
+}
+{
+"classname" "target_position"
+"targetname" "t194"
+"origin" "-888 320 296"
+}
+{
+"classname" "target_position"
+"targetname" "t195"
+"origin" "-888 448 296"
+}
+{
+"classname" "target_position"
+"targetname" "t196"
+"origin" "-888 576 296"
+}
+{
+"classname" "target_position"
+"targetname" "t197"
+"origin" "-888 704 296"
+}
+{
+"classname" "target_position"
+"targetname" "t198"
+"origin" "-888 832 296"
+}
+{
+"classname" "target_position"
+"targetname" "t199"
+"origin" "-888 960 296"
+}
+{
+"classname" "target_position"
+"targetname" "t200"
+"origin" "-832 1080 296"
+}
+{
+"classname" "target_position"
+"targetname" "t201"
+"origin" "-704 1080 296"
+}
+{
+"classname" "target_position"
+"targetname" "t202"
+"origin" "-576 1080 296"
+}
+{
+"classname" "target_position"
+"targetname" "t203"
+"origin" "-448 1080 296"
+}
+{
+"classname" "target_position"
+"targetname" "t204"
+"origin" "-320 1080 296"
+}
+{
+"classname" "target_position"
+"targetname" "t205"
+"origin" "-160 1528 296"
+}
+{
+"classname" "target_position"
+"targetname" "t206"
+"origin" "-32 1528 296"
+}
+{
+"classname" "target_position"
+"targetname" "t207"
+"origin" "96 1528 296"
+}
+{
+"classname" "target_position"
+"targetname" "t208"
+"origin" "224 1528 296"
+}
+{
+"classname" "target_position"
+"targetname" "t209"
+"origin" "-248 1184 296"
+}
+{
+"classname" "target_position"
+"targetname" "t210"
+"origin" "-248 1312 296"
+}
+{
+"classname" "target_position"
+"targetname" "t211"
+"origin" "-248 1440 296"
+}
+{
+"classname" "target_position"
+"targetname" "t212"
+"origin" "-320 712 296"
+}
+{
+"classname" "target_position"
+"targetname" "t213"
+"origin" "-448 712 296"
+}
+{
+"classname" "target_position"
+"targetname" "t214"
+"origin" "-520 640 296"
+}
+{
+"classname" "target_position"
+"targetname" "t215"
+"origin" "-520 512 296"
+}
+{
+"classname" "target_position"
+"targetname" "t216"
+"origin" "-520 384 296"
+}
+{
+"classname" "target_position"
+"targetname" "t217"
+"origin" "-520 256 296"
+}
+{
+"classname" "target_position"
+"targetname" "t218"
+"origin" "-520 128 296"
+}
+{
+"classname" "target_position"
+"targetname" "t219"
+"origin" "-520 0 296"
+}
+{
+"classname" "target_position"
+"targetname" "t220"
+"origin" "-448 -72 296"
+}
+{
+"classname" "target_position"
+"targetname" "t221"
+"origin" "-320 -72 296"
+}
+{
+"classname" "target_position"
+"targetname" "t222"
+"origin" "-248 0 296"
+}
+{
+"classname" "target_position"
+"targetname" "t223"
+"origin" "-248 128 296"
+}
+{
+"classname" "target_position"
+"targetname" "t224"
+"origin" "-248 256 296"
+}
+{
+"classname" "target_position"
+"targetname" "t225"
+"origin" "-248 384 296"
+}
+{
+"classname" "target_position"
+"targetname" "t226"
+"origin" "-248 512 296"
+}
+{
+"classname" "target_position"
+"targetname" "t227"
+"origin" "-248 640 296"
+}
+{
+"classname" "target_position"
+"targetname" "t228"
+"origin" "120 992 296"
+}
+{
+"classname" "target_position"
+"targetname" "t229"
+"origin" "120 864 296"
+}
+{
+"classname" "target_position"
+"targetname" "t230"
+"origin" "120 736 296"
+}
+{
+"classname" "target_position"
+"targetname" "t231"
+"origin" "120 608 296"
+}
+{
+"classname" "target_position"
+"targetname" "t232"
+"origin" "120 480 296"
+}
+{
+"classname" "target_position"
+"targetname" "t233"
+"origin" "120 352 296"
+}
+{
+"classname" "target_position"
+"targetname" "t234"
+"origin" "224 248 296"
+}
+{
+"classname" "target_position"
+"targetname" "t235"
+"origin" "224 248 8"
+}
+{
+"classname" "target_position"
+"targetname" "t236"
+"origin" "-176 -712 296"
+}
+{
+"classname" "target_position"
+"targetname" "t237"
+"origin" "-64 -824 296"
+}
+{
+"classname" "target_position"
+"targetname" "t238"
+"origin" "1336 32 296"
+}
+{
+"classname" "target_position"
+"targetname" "t239"
+"origin" "1336 -96 296"
+}
+{
+"classname" "target_position"
+"targetname" "t240"
+"origin" "1336 -224 296"
+}
+{
+"classname" "target_position"
+"targetname" "t241"
+"origin" "1336 -344 296"
+}
+{
+"classname" "target_position"
+"targetname" "t242"
+"origin" "1336 -464 296"
+}
+{
+"classname" "target_position"
+"targetname" "t243"
+"origin" "1336 688 296"
+}
+{
+"classname" "target_position"
+"targetname" "t244"
+"origin" "1336 560 296"
+}
+{
+"classname" "target_position"
+"targetname" "t245"
+"origin" "1336 432 296"
+}
+{
+"classname" "target_position"
+"targetname" "t246"
+"origin" "1336 304 296"
+}
+{
+"classname" "target_position"
+"targetname" "t247"
+"origin" "1336 176 296"
+}
+{
+"classname" "target_position"
+"targetname" "t248"
+"origin" "1336 1728 296"
+}
+{
+"classname" "target_position"
+"targetname" "t249"
+"origin" "1336 1600 296"
+}
+{
+"classname" "target_position"
+"targetname" "t250"
+"origin" "1336 1472 296"
+}
+{
+"classname" "target_position"
+"targetname" "t251"
+"origin" "1336 1344 296"
+}
+{
+"classname" "target_position"
+"targetname" "t252"
+"origin" "1336 1216 296"
+}
+{
+"classname" "target_position"
+"targetname" "t254"
+"origin" "832 1848 328"
+}
+{
+"classname" "target_position"
+"targetname" "t255"
+"origin" "960 1848 296"
+}
+{
+"classname" "target_position"
+"targetname" "t256"
+"origin" "1088 1848 296"
+}
+{
+"classname" "target_position"
+"targetname" "t257"
+"origin" "1216 1848 296"
+}
+{
+"classname" "target_position"
+"targetname" "t258"
+"origin" "328 480 296"
+}
+{
+"classname" "target_position"
+"targetname" "t259"
+"origin" "328 608 296"
+}
+{
+"classname" "target_position"
+"targetname" "t260"
+"origin" "328 736 296"
+}
+{
+"classname" "target_position"
+"targetname" "t261"
+"origin" "328 864 296"
+}
+{
+"classname" "target_position"
+"targetname" "t262"
+"origin" "328 352 296"
+}
+{
+"classname" "target_position"
+"targetname" "t263"
+"origin" "224 1096 296"
+}
+{
+"classname" "target_position"
+"targetname" "t264"
+"origin" "1424 -520 296"
+}
+{
+"classname" "target_position"
+"targetname" "t265"
+"origin" "1552 -520 296"
+}
+{
+"classname" "target_position"
+"targetname" "t266"
+"origin" "1680 -520 296"
+}
+{
+"classname" "target_position"
+"targetname" "t267"
+"origin" "1952 -520 264"
+}
+{
+"classname" "target_position"
+"targetname" "t268"
+"origin" "2080 -520 264"
+}
+{
+"classname" "target_position"
+"targetname" "t269"
+"origin" "2208 -520 264"
+}
+{
+"classname" "target_position"
+"targetname" "t270"
+"origin" "2336 -520 264"
+}
+{
+"classname" "target_position"
+"targetname" "t271"
+"origin" "2464 -520 264"
+}
+{
+"classname" "target_position"
+"targetname" "t272"
+"origin" "2584 -624 264"
+}
+{
+"classname" "target_position"
+"targetname" "t273"
+"origin" "2584 -752 264"
+}
+{
+"classname" "target_position"
+"targetname" "t274"
+"origin" "2584 -1112 264"
+}
+{
+"classname" "target_position"
+"targetname" "t275"
+"origin" "2584 -1240 264"
+}
+{
+"classname" "target_position"
+"targetname" "t276"
+"origin" "2584 -1368 264"
+}
+{
+"classname" "target_position"
+"targetname" "t277"
+"origin" "2472 -1480 264"
+}
+{
+"classname" "target_position"
+"targetname" "t278"
+"origin" "2344 -1480 264"
+}
+{
+"classname" "target_position"
+"targetname" "t279"
+"origin" "2216 -1480 264"
+}
+{
+"classname" "target_position"
+"targetname" "t280"
+"origin" "2088 -1480 264"
+}
+{
+"classname" "target_position"
+"targetname" "t281"
+"origin" "1960 -1480 264"
+}
+{
+"classname" "target_position"
+"targetname" "t282"
+"origin" "1656 -1480 296"
+}
+{
+"classname" "target_position"
+"targetname" "t283"
+"origin" "1528 -1480 296"
+}
+{
+"classname" "target_position"
+"targetname" "t284"
+"origin" "1400 -1480 296"
+}
+{
+"classname" "target_position"
+"targetname" "t285"
+"origin" "1272 -1480 296"
+}
+{
+"classname" "target_position"
+"targetname" "t286"
+"origin" "1144 -1368 296"
+}
+{
+"classname" "target_position"
+"targetname" "t287"
+"origin" "1144 -1240 296"
+}
+{
+"classname" "target_position"
+"targetname" "t288"
+"origin" "1144 -1112 296"
+}
+{
+"classname" "target_position"
+"targetname" "t289"
+"origin" "1144 -984 296"
+}
+{
+"classname" "target_position"
+"targetname" "t290"
+"origin" "2228 -1284 -728"
+}
+{
+"classname" "target_position"
+"targetname" "t291"
+"origin" "1592 928 296"
+}
+{
+"classname" "target_position"
+"targetname" "t292"
+"origin" "1440 776 296"
+}
+{
+"classname" "target_position"
+"targetname" "t293"
+"origin" "1472 1080 296"
+}
+{
+"classname" "info_player_intermission"
+"target" "t294"
+"origin" "1808 -1432 -176"
+"angle" "90"
+}
+{
+"classname" "target_position"
+"targetname" "t294"
+"origin" "1808 -664 352"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "1560 -1528 -744"
+"angle" "90"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "2480 -1424 -360"
+"angle" "90"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "1296 -864 -1000"
+"angle" "90"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "144 912 -424"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "-800 -304 24"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "2438 -26 -296"
+"angle" "270"
+}
+{
+"classname" "item_strength"
+"origin" "224 192 272"
+}
+{
+"classname" "weapon_electro"
+"origin" "-96 896 -240"
+}
+{
+"classname" "weapon_crylink"
+"origin" "2248 -1328 -368"
+}
+{
+"classname" "weapon_railgun"
+"origin" "-712 896 208"
+}
+{
+"classname" "func_plat"
+"lip" "16"
+"speed" "500"
+"model" "*5"
+}
+{
+"classname" "func_plat"
+"lip" "16"
+"speed" "500"
+"model" "*6"
+}
+{
+"classname" "func_plat"
+"lip" "16"
+"speed" "500"
+"model" "*7"
+}
+{
+"classname" "func_plat"
+"lip" "16"
+"speed" "500"
+"model" "*8"
+}
+{
+"classname" "dom_team"
+"model" "models/domination/dom_unclaimed.md3"
+"origin" "0.000000 0.000000 112.000000"
+}
+{
+"classname" "dom_team"
+"cnt" "13"
+"model" "models/domination/dom_blue.md3"
+"noise" "domination/claim.wav"
+"netname" "^4Blue Team^3"
+"noise1" "domination/claim.wav"
+"message" "Blue team has captured a control point"
+"origin" "0.000000 0.000000 80.000000"
+}
+{
+"classname" "dom_team"
+"cnt" "4"
+"model" "models/domination/dom_red.md3"
+"noise" "domination/claim.wav"
+"netname" "^1Red Team^3"
+"noise1" "domination/claim.wav"
+"message" "Red team has captured a control point"
+"origin" "0.000000 0.000000 48.000000"
+}
+{
+"classname" "dom_team"
+"cnt" "12"
+"model" "models/domination/dom_yellow.md3"
+"noise" "domination/claim.wav"
+"netname" "^3Yellow Team^3"
+"noise1" "domination/claim.wav"
+"message" "Pink team has captured a control point"
+"origin" "0.000000 0.000000 144.000000"
+}
+{
+"classname" "dom_controlpoint"
+"origin" "24.000000 -424.000000 16.000000"
+"angle" "-45.000000"
+"message" "^3 has captured the ^1Main Arena"
+}
+{
+"classname" "dom_controlpoint"
+"origin" "1072.000000 64.000000 -432.000000"
+"message" "^3 has captured the ^1Rocket Launcher"
+}
+{
+"classname" "dom_controlpoint"
+"origin" "648.000000 1304.000000 464.000000"
+"message" "^3 has captured the ^1Mortar"
+}
+{
+"classname" "dom_controlpoint"
+"origin" "2440.000000 -616.000000 -296.000000"
+"message" "^3 has captured the ^1East"
+}
+{
+"classname" "dom_controlpoint"
+"origin" "1920.000000 -64.000000 -1008.000000"
+"message" "^3 has captured the ^1Bottom"
+}
+{
+"classname" "item_armor_large"
+"origin" "1184 1280 -104"
+}
+{
+"classname" "item_armor_large"
+"origin" "1040 -528 -432"
+}
+{
+"classname" "item_armor_large"
+"origin" "2168 -1208 -752"
+}
+{
+"classname" "dom_team"
+"cnt" "9"
+"model" "models/domination/dom_pink.md3"
+"noise" "domination/claim.wav"
+"netname" "^6Pink Team^3"
+"noise1" "domination/claim.wav"
+"message" "Pink team has captured a control point"
+"origin" "0.000000 0.000000 16.000000"
+}
+{
+"classname" "weapon_hagar"
+"origin" "816 -464 -1008"
+}
+{
+"classname" "item_nadget"
+"origin" "816 -464 -1008"
+}
+
