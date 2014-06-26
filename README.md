@@ -12,6 +12,7 @@ List of alterations (alphabetical order):
 * **Japanese_Castles_q3wcp1**: Removed func_trains (they were as broken as the room they lead to) [_Akari_]
 * **medieval**: Added Buffs. Note: this patch is for medieval_v1r0 (accident doesn't like to version his maps) [_Hanzo_]
 * **ospdm8_nex_r1**: Added Buffs, Terminal [_J0k3r_]
+* **phantq3dm3_nex**: Added mapinfo, enabled g_walljump_playerclip [_J0k3r_]
 * **q2edge-nex-beta6**: Added Buffs, added 2 extra Domination control points, fixed a blue Jailbreak controlpoint having no target [_Akari_]
 * **q2warehouse-jb-beta3**: Fixed missing Red Arc Buff spawn [_Akari_]
 * **q2warehouse-nex-beta2**: Added Buffs, added Terminals, sealed jail doors for non-Jailbreak gametypes. [_Akari_]
