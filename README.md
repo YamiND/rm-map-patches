@@ -28,6 +28,7 @@ List of alterations (alphabetical order):
 * **solarae-nex-v2**: Move Terminals to more hidden locations [_J0k3r_]
 * **tortured**: Added mapinfo, enabled g_walljump_playerclip [_Akari_]
 * **vectorwars-jb-beta2**: Fixed CTF flag spawns (for VIP soulgems, they were unreachable) [_Hanzo_]
+* **warehouse-beta15**: Removed the cosmetic blue lasers to save some FPS [_Akari_]:
 * **whorehouse**: fixed a secret button missing the NOSPLASH spawnflag [_Akari_]
 
 Contributing
