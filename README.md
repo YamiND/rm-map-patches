@@ -13,6 +13,7 @@ List of alterations (alphabetical order):
 * **dusty_v2**: Made it fun 30% of the time. [_Akari_]
 * **EquinoxV1R4**: Added: 10 teamspawnpoints/team, 4 buffs/team, 1 common buff in the middle, 6 domination controlpoints [_Hanzo_]
 * **Japanese_Castles_q3wcp1**: Removed func_trains (they were as broken as the room they lead to) [_Akari_]
+* **lickadick**: Disabled walljumping [_Akari_]
 * **medieval**: Added Buffs. Note: this patch is for medieval_v1r0 (accident doesn't like to version his maps) [_Hanzo_]
 * **oilrig-beta2**: Set "spawninarena" "1" for the tuba.  [_Hanzo_]
 * **ospdm8_nex_r1**: Added Buffs, Terminal [_J0k3r_]
